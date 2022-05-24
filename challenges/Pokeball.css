@@ -39,7 +39,7 @@ body {
 }
 
 .half-top {
-  position: absolute;
+  position: fixed;
   top: 72%;
   left: 51%;
   transform: translate(-50%, -50%);
@@ -49,7 +49,7 @@ body {
   background-color: #d25b70;
 }
 .half-bottom {
-  position: absolute;
+  position: fixed;
   top: 33%;
   left: 51%;
   transform: translate(-50%, -50%);
