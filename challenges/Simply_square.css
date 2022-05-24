@@ -12,8 +12,8 @@ body {
 .flex-container {
   display: flex;
   background-color: #b5e0ba;
-  width: 25vw;
-  height: 50vh;
+  width: 350px;
+  height: 350px;
 }
 
 .flex-container > div {
