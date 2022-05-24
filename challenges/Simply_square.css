@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  width: 100vw;
+  height: 100vh;
+  background: #5d3a3a;
+}
+
+/* Colors Used: #5d3a3a #b5e0ba */
+.flex-container {
+  display: flex;
+  background-color: #b5e0ba;
+  width: 25vw;
+  height: 50vh;
+}
+
+.flex-container > div {
+  background-color: #b5e0ba;
+}
